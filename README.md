@@ -1,3 +1,3 @@
 # Little Lemon food ordering app
 
-Coursera project app.
+Coursera Meta Android final project.
